@@ -1,0 +1,33 @@
+/*
+genel css dosyası
+*/
+body {
+    font-family: sans-serif;
+}
+
+.ortala {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px;
+}
+
+#sayfa-ana-baslik {
+    color: #FF55BB;
+}
+#site-adi {
+    color: aqua;
+}
+
+.icerik h3 {
+    color: #87CBB9;
+}
+
+.urunlerimiz {
+    display: inline-block;
+}
