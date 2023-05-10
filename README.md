@@ -1,4 +1,4 @@
-# **Kodluyoruz Ilk Repo**
+# **Müzik Dükkanım**
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğum müzik dükkanım ödevidir.
 
 ![kodluyoruz gorsel](https://github.com/doubled00r/kodluyoruz-muzik-dukkanim/blob/main/figures/muzik-dukkanim-image.png)
